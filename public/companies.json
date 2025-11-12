@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Tech",
+    "location": "Bengaluru, India",
+    "industry": "Software",
+    "employees": 120,
+    "founded": 2017
+  },
+  {
+    "id": 2,
+    "name": "BlueWave Analytics",
+    "location": "San Francisco, USA",
+    "industry": "Analytics",
+    "employees": 85,
+    "founded": 2015
+  },
+  {
+    "id": 3,
+    "name": "GreenField Farms",
+    "location": "Nashik, India",
+    "industry": "Agriculture",
+    "employees": 45,
+    "founded": 2010
+  },
+  {
+    "id": 4,
+    "name": "Nimbus Cloud",
+    "location": "London, UK",
+    "industry": "Cloud",
+    "employees": 230,
+    "founded": 2012
+  },
+  {
+    "id": 5,
+    "name": "Helix Pharma",
+    "location": "Hyderabad, India",
+    "industry": "Pharma",
+    "employees": 400,
+    "founded": 2008
+  },
+  {
+    "id": 6,
+    "name": "PixelPlay Studios",
+    "location": "Toronto, Canada",
+    "industry": "Gaming",
+    "employees": 60,
+    "founded": 2019
+  },
+  {
+    "id": 7,
+    "name": "EcoMotion",
+    "location": "Berlin, Germany",
+    "industry": "Mobility",
+    "employees": 150,
+    "founded": 2014
+  },
+  {
+    "id": 8,
+    "name": "Crest Finance",
+    "location": "Mumbai, India",
+    "industry": "Finance",
+    "employees": 310,
+    "founded": 2005
+  },
+  {
+    "id": 9,
+    "name": "Orbit Robotics",
+    "location": "Pune, India",
+    "industry": "Robotics",
+    "employees": 75,
+    "founded": 2018
+  },
+  {
+    "id": 10,
+    "name": "Sapphire Design",
+    "location": "Lisbon, Portugal",
+    "industry": "Design",
+    "employees": 28,
+    "founded": 2020
+  },
+
+  {
+    "id": 11,
+    "name": "NextGen Systems",
+    "location": "Tokyo, Japan",
+    "industry": "Software",
+    "employees": 500,
+    "founded": 2011
+  },
+  {
+    "id": 12,
+    "name": "Insight Metrics",
+    "location": "Austin, USA",
+    "industry": "Analytics",
+    "employees": 120,
+    "founded": 2016
+  },
+  {
+    "id": 13,
+    "name": "FarmWise",
+    "location": "Ahmedabad, India",
+    "industry": "Agriculture",
+    "employees": 200,
+    "founded": 2002
+  },
+  {
+    "id": 14,
+    "name": "SkyCloud Networks",
+    "location": "Sydney, Australia",
+    "industry": "Cloud",
+    "employees": 90,
+    "founded": 2021
+  },
+  {
+    "id": 15,
+    "name": "MedCore Pharma",
+    "location": "Delhi, India",
+    "industry": "Pharma",
+    "employees": 600,
+    "founded": 1998
+  },
+
+  {
+    "id": 16,
+    "name": "GameForge",
+    "location": "Helsinki, Finland",
+    "industry": "Gaming",
+    "employees": 130,
+    "founded": 2013
+  },
+  {
+    "id": 17,
+    "name": "UrbanMobility",
+    "location": "Paris, France",
+    "industry": "Mobility",
+    "employees": 90,
+    "founded": 2017
+  },
+  {
+    "id": 18,
+    "name": "Finlytics",
+    "location": "Dubai, UAE",
+    "industry": "Finance",
+    "employees": 220,
+    "founded": 2011
+  },
+  {
+    "id": 19,
+    "name": "AutoBots Robotics",
+    "location": "Seoul, South Korea",
+    "industry": "Robotics",
+    "employees": 310,
+    "founded": 2010
+  },
+  {
+    "id": 20,
+    "name": "StudioCraft",
+    "location": "Madrid, Spain",
+    "industry": "Design",
+    "employees": 45,
+    "founded": 2022
+  },
+
+  {
+    "id": 21,
+    "name": "Binary Logic",
+    "location": "Bengaluru, India",
+    "industry": "Software",
+    "employees": 230,
+    "founded": 2020
+  },
+  {
+    "id": 22,
+    "name": "DeepData Insights",
+    "location": "New York, USA",
+    "industry": "Analytics",
+    "employees": 75,
+    "founded": 2018
+  },
+  {
+    "id": 23,
+    "name": "Harvest Hub",
+    "location": "Indore, India",
+    "industry": "Agriculture",
+    "employees": 150,
+    "founded": 2014
+  },
+  {
+    "id": 24,
+    "name": "Zenith Cloud",
+    "location": "Singapore",
+    "industry": "Cloud",
+    "employees": 190,
+    "founded": 2009
+  },
+  {
+    "id": 25,
+    "name": "BioHeal Pharma",
+    "location": "Chennai, India",
+    "industry": "Pharma",
+    "employees": 420,
+    "founded": 2006
+  },
+  {
+    "id": 26,
+    "name": "GameMatrix",
+    "location": "Los Angeles, USA",
+    "industry": "Gaming",
+    "employees": 350,
+    "founded": 2015
+  },
+  {
+    "id": 27,
+    "name": "SpeedRide Mobility",
+    "location": "Amsterdam, Netherlands",
+    "industry": "Mobility",
+    "employees": 100,
+    "founded": 2013
+  },
+  {
+    "id": 28,
+    "name": "CashFlow Corporation",
+    "location": "London, UK",
+    "industry": "Finance",
+    "employees": 780,
+    "founded": 2001
+  },
+  {
+    "id": 29,
+    "name": "RoboTech AI",
+    "location": "Boston, USA",
+    "industry": "Robotics",
+    "employees": 260,
+    "founded": 2017
+  },
+  {
+    "id": 30,
+    "name": "PixelStudio",
+    "location": "Milan, Italy",
+    "industry": "Design",
+    "employees": 40,
+    "founded": 2023
+  }
+]
